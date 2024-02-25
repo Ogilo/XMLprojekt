@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<korisnici>
+    <korisnik>
+        <ime>Karlo</ime>
+        <prezime>Zekić</prezime>
+        <korisnicko_ime>kzekic</korisnicko_ime>
+        <email>kzekic@tvz.hr</email>
+        <lozinka>12345</lozinka>
+    </korisnik>
+    
+    <korisnik>
+        <ime>Ozren</ime>
+        <prezime>Petrović</prezime>
+        <korisnicko_ime>Ogi1302</korisnicko_ime>
+        <email>opetrovic@tvz.hr</email>
+        <lozinka>12345678</lozinka>
+    </korisnik>
+<korisnik><ime>Ozren</ime><prezime>Petrovic</prezime><korisnicko_ime>opetrovic</korisnicko_ime><email>ozrenpetrovic1@gmail.com</email><lozinka>123</lozinka></korisnik><korisnik><ime>franko</ime><prezime>petrovi</prezime><korisnicko_ime>fpetrovic</korisnicko_ime><email>fpetrovic@tvz.hr</email><lozinka>abc</lozinka></korisnik></korisnici>

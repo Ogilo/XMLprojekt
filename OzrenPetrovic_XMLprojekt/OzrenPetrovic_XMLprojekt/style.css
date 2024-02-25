@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #ebeeef;
+}
+
+.wrapper{
+    margin: 0 auto;
+    width: 30%;
+    text-align: center;
+}
+
+.login{
+    background-color: white;
+    margin-top: 30%;
+    border-radius: 10px;
+}
+
+.slika{
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("s1.jpg");
+    color: white;
+    font-weight: bold;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 70px 15px 74px 15px;
+    border-radius: 10px;
+}
+
+.forma{
+    padding: 50px 100px;
+    text-align: center;
+}
+
+#link{
+    text-decoration: none;
+    color: cornflowerblue;
+}
+
+
+form{
+    margin: 0 auto;
+    width: 100%;
+    text-align: left;
+}
+
+#l{
+    margin-top: 40px;
+    margin-left: 47px;
+}
+
+input{
+    border: 0;
+    border-bottom: 1px solid grey;
+    width: 65%;
+}
+
+form .error{
+    color: #ff0000;
+}
+
+.input2{
+    width: 100%;
+    margin-top: 10px;
+}
+
+.label{
+    width: 100%;
+    display: block;
+    margin-top: 20px;
+}
+
+
+.button{
+    background-color: #57b846;
+    color: white;
+    height: 50px;
+    padding: 0 20px;
+    text-align: center;
+    border-radius: 25px;
+    width: 160px;
+    border: 0;
+    font-size: 16px;
+    margin-top: 30px;
+    margin-left: 110px;
+}
+
+.reg_btn{
+    background-color: #57b846;
+    color: white;
+    height: 50px;
+    padding: 0 20px;
+    text-align: center;
+    border-radius: 25px;
+    width: 160px;
+    border: 0;
+    font-size: 16px;
+    margin-top: 30px;
+    margin-left: 110px;
+}
+
+label{
+    padding-right: 10px;
+}
+
